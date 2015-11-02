@@ -13,6 +13,7 @@ $(function() {
   }).mouseleave(function(){
       $(".page-home #menu").stop().fadeToggle(500);
   });
+  $("h1 img").fadeIn(1000);
 });
 </script>
 </head>

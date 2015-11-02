@@ -8,6 +8,7 @@ $pages = array("home"    => array("menu"=>"home",    "label"=>"Home")
               ,"contact" => array("menu"=>"contact", "label"=>"Contact Us")
               );
 
+isset($_GET["page"]) or $_GET["page"] = "home";
 isset($pages[$_GET["page"]]) or $_GET["page"] = "home";
 
 // Setup the menu

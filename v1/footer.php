@@ -27,12 +27,12 @@
   &nbsp;<br>
   &nbsp;<br>
   &nbsp;<br>
-  Copyright © 2007-2015 <br>
+  Copyright © <?=date("Y")?> <br>
   IPv6 Now Pty Ltd <br>
   ABN 72 126 460 955
   </div>
 
-  <div style="float:right;  margin: %5 %2 %2 %0; padding:4%">
+  <div style="float:right; padding:4%">
   <a href="http://6lab.cisco.com/stats/" target="_blank">
   <img src="http://6lab-stats.com/v1.php/bedeusjpau" alt="Cisco 6lab IPv6 stats widget" height="223"/>
   </a>

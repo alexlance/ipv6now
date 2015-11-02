@@ -1,7 +1,7 @@
 <h1>
   <img src="<?=VERSION?>/images/IPv6NowLogo.png" alt="logo"><br>
-  Tell us your IPv6 needs, we'll respond to you very quickly.<br>
-  We also publish a newsletter <i>The Standard</i> that you might enjoy,<br>subscribe below.
+  Talk to us, we'll respond to you very quickly.<br>
+  We also publish a newsletter <i>The Standard</i> that you might enjoy, subscribe below.
 </h1>
 
 <div class="container">
@@ -11,9 +11,9 @@
   We don't spam and you can unsubscribe at any time.
   <br><br>
   The newsletter is sent out a few times per year, it contains all the latest
-  information to keep you in touch with the exciting world of networking.
+  information to keep you in touch.
   <br><br>
-  Feel like having a chat? Give us a call on <b>1800 222 085</b>
+  Feel like having a chat? Give us a quick call on <b>1800 222 085</b>.
   </div>
 
 
