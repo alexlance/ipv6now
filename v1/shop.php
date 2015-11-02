@@ -1,6 +1,6 @@
 <h1>
   <img src="<?=VERSION?>/images/IPv6NowLogo.png"><br>
-  Get some gear. Your friends will be so jealous...<br>
+  Get some gear. Your co-workers will be so jealous...<br>
 (Support us, so we can support you)
 </h1>
 

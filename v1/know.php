@@ -6,7 +6,7 @@ its IPv6 training program as a precursor model.</i><br><span class="small">- Lat
 
 <h4>Training for organisations and groups</h4>
 <p>
-IPv6 Now trainers and courses are Certified Gold by the IPv6 Forum. We offer hands-on workshops as well as shorter presentations.
+IPv6 Now trainers and courses are <b>Certified Gold</b> by the IPv6 Forum. We offer hands-on workshops as well as shorter presentations.
 Classes can run from 1 to 5 days, making it easer for essential staff to attend and we provide reference documents to assist.
 </p>
 <p>
