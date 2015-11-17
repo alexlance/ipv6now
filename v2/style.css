@@ -53,31 +53,27 @@ body {
 }
 #footer {
   width:100%;
-  background-image:url(images/Swirl.jpg);
-  background-repeat:no-repeat;
+  background:#ccc;
   background-size:100%;
-  padding:0 2%;
-  overflow:hidden;
+  height:15em;
+  clear:both;
+  padding-left:3%;
 }
 
 #footer div.contact {
   font-weight:normal;
-  color: #fff;
+  color: #666;
   float:left;
-  font-size:80%;
-  margin:8% 0% 0% 2%;
+  font-size:90%;
+  margin:3% 0% 0% 2%;
   line-height:160%;
   padding:0%;
-  text-shadow: 3px 3px 7px rgba(0, 0, 0, 1);
 }
 
-#footer div.contact b {
-  font-size:120%;
-}
-#footer div.contact a {
-  color:#fff;
-  font-weight:bold;
-}
+#footer div.contact b { font-size:120%; }
+#footer div.contact a { color:#666; font-weight:bold; }
+
+
 
 h1 {
   color:#777777;
@@ -85,7 +81,7 @@ h1 {
   font-size:150%;
   max-width:80%;
   margin:auto;
-  text-align:center;
+  text-align:left;
   margin-bottom:4%;
   line-height:125%;
 }
@@ -98,9 +94,8 @@ div.nav {
   border: 1px solid #ccc;
   padding: 2%;
   overflow:hidden;
-  margin-bottom:1.5%;
+  margin-bottom:1%;
   background-color: #f4f4f4;
-  text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
 }
 
 .gradient {
@@ -172,7 +167,7 @@ div.blurb h3 {
 }
 
 div.blurb p {
-  padding:0% 3%;
+  padding:1% 4%;
   line-height:170%;
 }
 
@@ -293,4 +288,8 @@ table.horizontal td {
   margin-right:24px;
   margin-top:6px;
 }
+
+a { color:#333; text-decoration:underline ; }
+a:visited  { color:#666 ; text-decoration: underline; }
+a:hover, a:active { color:#d28; text-decoration:underline; }
 
