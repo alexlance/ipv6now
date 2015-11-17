@@ -23,27 +23,23 @@
   </div>
 
   <div class="contact">
-IPv6 is the new addressing system for Internet devices<br /> which creates larger,
-cheaper, more efficient networks.
-<br />
-<br />
- IPv6 Now was founded in 2007 and is
-the only company<br /> in Australia dedicated solely to IPv6 consulting and training. 
-<br />
-<br />
-  Copyright &copy; 2007-2015 
-  IPv6 Now Pty Ltd 
+  &nbsp;<br>
+  &nbsp;<br>
+  &nbsp;<br>
+  &nbsp;<br>
+  Copyright © <?=date("Y")?> <br>
+  IPv6 Now Pty Ltd <br>
   ABN 72 126 460 955
-</div>
+  </div>
 
-  <div style="float:right;  margin: %1 %2 %2 %0; padding:1% 4%">
+  <div style="float:right; padding:4%">
   <a href="http://6lab.cisco.com/stats/" target="_blank">
-  <img src="http://6lab-stats.com/v1.php/bedeusjpau" alt="Cisco 6lab IPv6 stats widget" height="300"/>
+  <img src="http://6lab-stats.com/v1.php/bedeusjpau" alt="Cisco 6lab IPv6 stats widget" height="223"/>
   </a>
   </div>
 
-</div>
 
+</div>
 <!-- <?=COOKIE_STATUS?> -->
 </body>
 </html>

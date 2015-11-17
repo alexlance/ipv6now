@@ -8,6 +8,7 @@ $pages = array("home"    => array("menu"=>"home",    "label"=>"Home")
               ,"contact" => array("menu"=>"contact", "label"=>"Contact Us")
               );
 
+isset($_GET["page"]) or $_GET["page"] = "home";
 isset($pages[$_GET["page"]]) or $_GET["page"] = "home";
 
 // Setup the menu
@@ -19,7 +20,7 @@ foreach ($pages as $k => $v) {
   || ($pages[$_GET["page"]]["menu"] == $k)) {
     $active = "menu-active";
   }
-  $menu .= sprintf('%s <a href="?page=%s" class="%s">%s</a>', $sep, $k, $active, $v["label"]);
+  $menu .= sprintf('%s <a href="/?page=%s" class="%s">%s</a>', $sep, $k, $active, $v["label"]);
   $sep = " ";
 }
 $menu = '<div id="menu">'.$menu.'</div>';

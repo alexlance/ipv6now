@@ -4,7 +4,7 @@
 <title>IPv6Now: Dedicated IPv6 Consulting, Training, Services</title>
 <meta name="description" content="6Now, Achieving IPv6, IPv6 Assistance, IPv6 Consulting, IPv6 Training, IPv6 Access"/>
 <meta name="keywords" content="IPv6 Australia, 6Now, Achieving IPv6, IPv6 Assistance, IPv6 Consulting, IPv6 Training, IPv6 Access"/>
-<link rel="stylesheet" type="text/css" href="<?=VERSION?>/style.css">
+<link rel="stylesheet" type="text/css" href="/<?=VERSION?>/style.css">
 <script type="text/javascript" src="<?=VERSION?>/jquery-1.11.3.min.js"></script>
 <script>
 $(function() {
@@ -13,6 +13,7 @@ $(function() {
   }).mouseleave(function(){
       $(".page-home #menu").stop().fadeToggle(500);
   });
+  $("h1 img").fadeIn(1000);
 });
 </script>
 </head>
